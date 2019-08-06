@@ -1,2 +1,2 @@
 # mirror-test
-Github to Gitlab mirror test with gitlab-tools
+Github to Gitlab mirror test with webhooks/triggers
